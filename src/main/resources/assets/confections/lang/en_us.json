@@ -1,0 +1,19 @@
+{
+  "item.dfb.raw_cocoa_powder": "Raw Cocoa Powder",
+  "item.confections.raw_cocoa_powder": "Raw Cocoa Powder",
+  "item.dfb.cherry": "Cherry",
+  "item.dfb.chocolate_syrup": "Chocolate Syrup",
+  "item.confections.chocolate_milk": "Chocolate Milk",
+  "item.confections.chocolate_dipped_cherries": "Chocolate Dipped Cherries",
+  "item.dfb.milk_bottle": "Milk Bottle",
+  "item.dfb.cocoa_powder": "Cocoa Powder",
+  "item.dfb.chocolate_dipped_cherries": "Chocolate Dipped Cherries",
+  "item.confections.milk_bottle": "Milk Bottle",
+  "item.confections.chocolate_syrup": "Chocolate Syrup",
+  "item.confections.cherry": "Cherry",
+  "item.confections.cocoa_powder": "Cocoa Powder",
+  "advancements.door_county.title": "Door County\u0027s Finest",
+  "entity.minecraft.villager.confections.confectioner": "Confectioner",
+  "advancements.door_county.descr": "Get a cherry from a cherry tree",
+  "item.dfb.chocolate_milk": "Chocolate Milk"
+}

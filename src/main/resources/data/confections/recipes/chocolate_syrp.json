@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "bc"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:sugar"
+    },
+    "b": {
+      "item": "confections:cocoa_powder"
+    },
+    "c": {
+      "item": "minecraft:honey_bottle"
+    }
+  },
+  "result": {
+    "item": "confections:chocolate_syrup",
+    "count": 2
+  }
+}
